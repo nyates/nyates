@@ -2,7 +2,7 @@
 
 My name is Nick Yates. I am a computer science and engineering teacher at Patterson High School in Baltimore City Public Schools, Baltimore, Maryland, USA.
 
-I'm also involved in several groups focused around teacher education in computer science and building a CS education community. I am an adjunct instructor in the MAE in CS program at the University of Maryland Baltimore County. I am a professional development facilitator for Maryland Center for Computing Education (currently focusing on the CS Praxis, Mobile App Development, and Artificial Intelligence). And I am the treasurer for our statewide chapter of the Computer Science Teachers Association, CSTA Maryland.
+I'm also involved in several groups focused around teacher education in computer science and building a CS education community. I am an adjunct instructor in the MAE in CS program at the University of Maryland Baltimore County. I am a professional development facilitator for Maryland Center for Computing Education (currently focusing on the CS Praxis, Mobile App Development, and Artificial Intelligence). And I am the treasurer for our statewide chapter of the Computer Science Teachers Association, [CSTA Maryland](https://maryland.csteachers.org/).
 
 In the realm of engineering education, I am a sixteen-year member of the Baltimore City Schools Project Lead the Way Engineering Program Advisory Committee. And I am the treasurer for a 501(c)(3) nonprofit we created to support engineering classrooms in Baltimore City, the Baltimore City Engineering Alliance (BCEA).
 
