@@ -8,4 +8,4 @@ In the realm of engineering education, I am a sixteen-year member of the Baltimo
 
 I use GitHub extensively with my twelfth grade students in App Development class, and when I cowrote the curriculum for that class. We use Android Studio with Java for App Dev. I also used GitHub in several of my courses I took to earn a masters in CS from Georgia Tech. I hope to use GitHub more for side programming projects, and the demonstrate a portfolio of work.
 
-![Photo of Nick Yates, 2021](https://www.pattersonclippers.org/ourpages/auto/2023/2/1/38917886/meCyber.jpg)
+<img src="https://www.pattersonclippers.org/ourpages/auto/2023/2/1/38917886/meCyber.jpg" alt="Photo of Nick Yates, 2021" width="50" height="50%" />
